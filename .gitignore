@@ -1,0 +1,25 @@
+# Java / Spring
+backend/target/
+*.class
+*.log
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# App runtime
+uploads/
+.env
+logs/
+mysql-local/data/
+scripts/start-backend.local.ps1
